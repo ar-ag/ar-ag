@@ -40,5 +40,5 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ag&layout=compact" width="500"></td>
 </table>
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ar-ag&theme=tokyo-night)](https://github.com/ar-ag/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ar-ag&theme=react-dark)](https://github.com/ar-ag/github-readme-activity-graph)
 
